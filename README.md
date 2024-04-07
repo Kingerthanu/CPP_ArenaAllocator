@@ -25,6 +25,8 @@ This Program Works With A Defined Allocator Class In Which Manages Multiple Spot
 
 Each Piece Of Memory Allocated By The Arena Is Held In Item Objects In Which Are A Simple Struct Holding A Integer Value.
 
+Currently We Have A Extensive Testing Driver Made In Which Allocates Many Ever-Increasing In Size Arena Allocators And Ensuring Functionality Of Them With Random Tests As Well As Expected Behaivor Tests.
+
 We Use Our Own Defined Testing To Ensure Proper Behaivor And We Also Include Verbosity To Allow The User To See More About Specific Entries Being Allocated For Debugging Purposes.
 
 
