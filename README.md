@@ -19,7 +19,11 @@ as well as outOfMemory to show how issues can arise, and be caught and managed i
 
 **The Breakdown:**
 
+This Program Uses The Terminal To Display Behaivor Of A Defined Dynamically Allocated Memory Arena Allocator.
 
+This Program Works With A Defined Allocator Class In Which Manages Multiple Spots Of Memory In Its Own Closes Space Of Active Pointed To Memory. A User Can Ask For Memory From The Allocator As Well As Ask It To Free Some Memory Stored. We Also Defined Some Exception Types For Our Allocator To Use As Unique Identifiers To Specific Errors Expressed By Our ADT.
+
+We Use Our Own Defined Testing To Ensure Proper Behaivor And We Also Include Verbosity To Allow The User To See More About Specific Entries Being Allocated For Debugging Purposes.
 
 <img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49">
 
