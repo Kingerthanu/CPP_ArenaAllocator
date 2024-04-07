@@ -21,6 +21,8 @@ as well as outOfMemory to show how issues can arise, and be caught and managed i
 
 
 
+<img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ArenaAllocator/assets/76754592/c70495d9-dade-4fa0-8c9e-8285f1193c97" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------
 
 
